@@ -8,7 +8,7 @@
 ##5.Let's add a simple (without JS) book rating system to the application.
 
 First of all, let's create a directory for the project, activate the virtual environment and install all the necessary dependencies using the pipenv manager:
->-mkdir reader
+-mkdir reader
 -cd reader
 -mkdir .venv
 -pipenv shell
